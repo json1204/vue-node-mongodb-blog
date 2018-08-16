@@ -32,7 +32,8 @@ npm run server  // 启动服务
   ```
   db.users.insert({
       "name" : "cd",
-      "pwd" : "e10adc3949ba59abbe56e057f20f883e",
+      "pwd" : "123456",
+			
       "username" : "admin",
       "roles" : [ 
           "admin"
